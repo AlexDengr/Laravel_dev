@@ -1,0 +1,11 @@
+/vendor
+/node_modules
+Homestead.yaml
+Homestead.json
+.env
+
+.idea
+.env
+.env.example
+config
+vendor
